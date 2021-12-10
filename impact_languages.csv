@@ -1,0 +1,16 @@
+﻿Feature,Coorelation,Column Impact ,Impact Rank
+jQuery,-0.11026,4.52,1
+Go,0.164302,4.11,2
+React.js,0.023004,4.07,3
+AWS,0.13112,3.92,4
+PHP,-0.101265,3.46,5
+JavaScript,-0.094441,3.32,6
+PowerShell,-0.073499,3.23,7
+Kubernetes,0.180554,3.16,8
+Java,0.089519,2.48,9
+Python,0.047418,2.45,10
+C++,0.04962,2.41,11
+Pandas,0.005202,2.16,12
+Redis,0.122434,2.07,13
+Terraform,0.172194,1.74,14
+Rust,0.082451,1.7,15
